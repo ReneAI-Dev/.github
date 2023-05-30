@@ -1,5 +1,7 @@
 # Ren AI Project
 
+**This is still a work in progress, in the end this what the AIs purpose will be**
+
 ## Description
 
 **Ren AI** is an ambitious project aiming to construct a comprehensive, decentralized, self-learning Artificial Intelligence system with multimodal inputs. It represents a progressive step in the field of AI, offering a multitude of capabilities, including advanced voice and visual recognition, active learning, and a unique decentralized approach.
