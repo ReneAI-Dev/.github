@@ -27,7 +27,7 @@ Ren AI is a project rooted in ethical considerations. It adheres to the legal an
 
 The development of Ren AI is divided into several phases, including design and planning, AI training and learning model development, multimodal input integration, voice model development, visual recognition development, decentralized node program development, integration and testing, defining performance metrics, security measures, deployment, maintenance, updates, and ethical considerations and compliance.
 
-Each phase plays a critical role in the development of the project and contributes to the overall functionality and success of Ren AI. Detailed information about each phase is outlined in our [Project Overview](https://github.com/RenAI-Dev/Project-Overview/blob/main/README.md).
+Each phase plays a critical role in the development of the project and contributes to the overall functionality and success of Ren AI. Detailed information about each phase is outlined in our [Project Overview](https://github.com/ReneAI-Dev/Project-Overview/blob/main/README.md).
 
 ## Contribute
 
@@ -35,11 +35,11 @@ We welcome contributions from developers, machine learning enthusiasts, and rese
 
 ## License
 
-Ren AI is licensed under the [GNU Affero General Public License v3.0](https://github.com/RenAI-Dev/Project-Overview/blob/main/LICENSE).
+Ren AI is licensed under the [GNU Affero General Public License v3.0](https://github.com/ReneAI-Dev/Project-Overview/blob/main/LICENSE).
 
 ## Contact
 
-For any queries, please feel free to reach us at [contact@renai.com](mailto:contact@renai.com).
+For any queries, please feel free to reach us at [contact@renai.com](mailto:contact@reneai.com).
 
 ## Acknowledgements
 
