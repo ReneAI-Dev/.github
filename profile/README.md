@@ -1,6 +1,6 @@
 # Ren AI Project
 
-**This is still a work in progress, in the end this what the AIs purpose will be**
+**This is still a work in progress, in the end this is what the AIs purpose will be**
 
 ## Description
 
