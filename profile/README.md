@@ -27,7 +27,7 @@ Ren AI is a project rooted in ethical considerations. It adheres to the legal an
 
 The development of Ren AI is divided into several phases, including design and planning, AI training and learning model development, multimodal input integration, voice model development, visual recognition development, decentralized node program development, integration and testing, defining performance metrics, security measures, deployment, maintenance, updates, and ethical considerations and compliance.
 
-Each phase plays a critical role in the development of the project and contributes to the overall functionality and success of Ren AI. Detailed information about each phase is outlined in our [Project Plan Checklist](#link).
+Each phase plays a critical role in the development of the project and contributes to the overall functionality and success of Ren AI. Detailed information about each phase is outlined in our [Project Overview](https://github.com/RenAI-Dev/Project-Overview/blob/main/README.md).
 
 ## Contribute
 
