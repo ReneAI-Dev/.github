@@ -35,7 +35,7 @@ We welcome contributions from developers, machine learning enthusiasts, and rese
 
 ## License
 
-Ren AI is licensed under the [MIT License](#link).
+Ren AI is licensed under the [GNU Affero General Public License](https://github.com/RenAI-Dev/Project-Overview/blob/main/LICENSE).
 
 ## Contact
 
